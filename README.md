@@ -28,23 +28,17 @@ The first challenge was to examine the data and make sure that all details are r
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+- What are two conclusions you can draw about the Outcomes based on Launch Date?  
 May has the most number of successful campaigns relative to the number of failed outcomes. Looking at the months of May to August and October, they roughly have the same number of failed campaigns which makes May the month that has the highest chance of success rate for a launch date. Also, one must note that May has the highest number of campaigns while December has the least number of campaigns overall.
 
-- What can you conclude about the Outcomes based on Goals?
-
+- What can you conclude about the Outcomes based on Goals?  
 For outcomes based on goals, the higher the goal is, the lower the chances of the campaign to be successful. There are also a huge difference in number of campaigns as the funding goal increases.
 
-- What are some limitations of this dataset?
-
+- What are some limitations of this dataset?  
 One limitation of the dataset is the use of different currencies. There was no standardization of currency for the analysis of outcomes based on goals. Also, it would have been preferable to narrow down the analysis to a specific area. An example would be the country where the playwright, Louise, is going to gauge the result of her campaign to or at least in the areas of interest.
 
-- What are some other possible tables and/or graphs that we could create?
-
-An additional analysis could be analyzing the length of the campaigns and comparing it to the number of outcomes. This would help in determining whether or not there is an ideal length of campaign that would make the fundraising event a successful one. 
-
-Also, the actual amount pledged for the campaigns could have been helpful in solidifying the trends that were determined, not to mention the fact that that information is already at hand. Creating a box and whisker plot would help in determining outliers and comparing funding goals versus the pledged amounts will be easier. The box plot will calculate the mean, median, quartiles, and the range of the data which can help in determining the ideal funding goal.
+- What are some other possible tables and/or graphs that we could create?  
+An additional analysis could be analyzing the length of the campaigns and comparing it to the number of outcomes. This would help in determining whether or not there is an ideal length of campaign that would make the fundraising event a successful one. Also, the actual amount pledged for the campaigns could have been helpful in solidifying the trends that were determined, not to mention the fact that that information is already at hand. Creating a box and whisker plot would help in determining outliers and comparing funding goals versus the pledged amounts will be easier. The box plot will calculate the mean, median, quartiles, and the range of the data which can help in determining the ideal funding goal.
 
 ## Reference
 
